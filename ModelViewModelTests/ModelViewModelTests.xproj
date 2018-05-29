@@ -21,5 +21,4 @@
   <ItemGroup>
     <ProjectReference Include="..\ModelViewModel\ModelViewModel.csproj" />
   </ItemGroup>
-  <Import Project="$(VSToolsPath)\DotNet\Microsoft.DotNet.targets" Condition="'$(VSToolsPath)' != ''" />
-</Project>
+  </Project>
